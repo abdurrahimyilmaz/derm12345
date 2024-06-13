@@ -3,6 +3,14 @@ DERM12345 dataset contains 12345 dermatoscopic images with 5 super classes, 15 m
 
 This repository is to share useful sources to process DERM12345 dataset for data analysis and training AI.
 
+Environment:
+python 3.11.5
+jupyterlab 3.6.3
+beautifulsoup4 4.12.2
+numpy 1.24.3
+pandas 2.0.3
+imagesize 1.4.1
+
 Last updated: 13/06/2024
 
 Contains two main folders:<br>
