@@ -3,19 +3,19 @@ DERM12345 dataset contains 12345 dermatoscopic images with 5 super classes, 15 m
 
 This repository is to share useful sources to process DERM12345 dataset for data analysis and training AI.
 
-Environment:
-python 3.11.5
-jupyterlab 3.6.3
-beautifulsoup4 4.12.2
-numpy 1.24.3
-pandas 2.0.3
-imagesize 1.4.1
+Environment:<br>
+python 3.11.5<br>
+jupyterlab 3.6.3<br>
+beautifulsoup4 4.12.2<br>
+numpy 1.24.3<br>
+pandas 2.0.3<br>
+imagesize 1.4.1<br>
 
-Last updated: 13/06/2024
+Last updated: 13/06/2024<br>
 
 Contains two main folders:<br>
 1-dataset creation: This folder is to share Python scripts that the authors are coded when creating this dataset.<br>
-2-data: This folder is to share Python scripts for development of data arrays for AI training. 
+2-data: This folder is to share Python scripts for development of data arrays for AI training. <br>
 
 Taxonomy Tree<br>
 -Melanocytic Benign<br>
