@@ -1,7 +1,7 @@
-DERM12345: A Large, Multisource Dermatoscopic Skin Lesion Dataset with 38 Subclasses<br>
-DERM12345 dataset contains 12345 dermatoscopic images with 5 super classes, 15 main classes, and 38 subclasses.
+DERM12345: A Large, Multisource Dermatoscopic Skin Lesion Dataset with 40 Subclasses<br>
+DERM12345 dataset contains 12345 dermatoscopic images with 5 super classes, 15 main classes, and 40 subclasses.
 
-This repository is to share useful sources to process DERM12345 dataset for data analysis and training AI.
+This repository is to share useful tools to process DERM12345 dataset for data analysis and training AI.
 
 Last updated: 27/11/2024<br>
 
