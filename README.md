@@ -3,7 +3,16 @@ DERM12345 dataset contains 12345 dermatoscopic images with 5 super classes, 15 m
 
 This repository is to share useful tools to process DERM12345 dataset for data analysis and training AI.
 
-Last updated: 27/11/2024<br>
+Last updated: 02 Apr 2025<br>
+
+Related Links
+<ul>
+<li><a href="https://github.com/abdurrahimyilmaz/derm12345" target="_blank">DERM12345 GitHub Link</a></li>
+  <li><a href="https://api.isic-archive.com/doi/derm12345" target="_blank">ISIC Link</a></li>
+  <li><a href="https://github.com/abdurrahimyilmaz/derm12345_google-derm-foundation" target="_blank">Google Derm Foundation Tutorial and Embeddings</a></li>
+  <li><a href="https://github.com/Google-Health/derm-foundation/tree/master/notebooks" target="_blank">Google Derm Foundation Notebooks</a></li>
+  <li><a href="https://developers.google.com/health-ai-developer-foundations/derm-foundation/model-card" target="_blank">Google Derm Foundation Model Card</a></li>
+</ul>
 
 Environment:<br>
 python 3.11.5<br>
